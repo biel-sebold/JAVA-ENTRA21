@@ -1,3 +1,4 @@
+package AULA02;
 /*
 Fique pedindo para o usuário digitar números, até que ele digite zero. 
 Em s/*eguida, mostre na tela a soma de todos os números digitados.

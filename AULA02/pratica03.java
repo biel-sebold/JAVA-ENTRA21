@@ -1,3 +1,4 @@
+package AULA02;
 /*
 Peça ao usuário para digitar um número inteiro. Em seguida, mostre na tela a
 tabuada desse número até 100.

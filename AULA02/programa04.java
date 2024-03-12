@@ -1,3 +1,4 @@
+package AULA02;
 import java.util.Scanner;
 
 public class programa04 {

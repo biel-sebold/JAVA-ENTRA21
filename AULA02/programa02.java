@@ -1,3 +1,4 @@
+package AULA02;
 public class programa02 {
     public static void main(String[] args) {
         int x;

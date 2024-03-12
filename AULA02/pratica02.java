@@ -1,3 +1,4 @@
+package AULA02;
 /*
 Faça um programa em Java que peça ao usuário digitar dois números inteiros.
 Exiba na tela:
